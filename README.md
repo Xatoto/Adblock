@@ -1,4 +1,4 @@
 # Adblock
 Ublock twitch adblock script
-edited version of ->
+fork of ->
 [https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft-ublock-origin.js]
